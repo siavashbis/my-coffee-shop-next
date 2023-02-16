@@ -26,7 +26,7 @@
   {
     "id": 3,
     "name": "Charlie Coffee",
-    "imgUrl": "/../public/static/coffee-store.jpg",
+    "imgUrl": "../public/static/coffee-store.jpg",
     "websiteUrl": "https://www.darkhorseespresso.com/",
     "address": "Namjoo St W",
     "neighbourhood": "Gaz"

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "Teabar Coffee",
+    "imgUrl": "/../public/static/coffee-store.jpg",
+    "websiteUrl": "https://www.strangelovecoffee.ca/",
+    "address": "983 Queen St E, Toronto, ON M4M 1K2",
+    "neighbourhood": "at King and Spadina"
+  },
+  {
+    "id": 1,
+    "name": "Sakkou Coffee",
+    "imgUrl": "/../public/static/coffee-store.jpg",
+    "websiteUrl": "https://www.darkhorseespresso.com/",
+    "address": "401 Richmond St W",
+    "neighbourhood": "Richmond and Spadina"
+  },
+  {
+    "id": 2,
+    "name": "Charlie Coffee",
+    "imgUrl": "/../public/static/coffee-store.jpg",
+    "websiteUrl": "https://www.darkhorseespresso.com/",
+    "address": "Namjoo St W",
+    "neighbourhood": "Gaz"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Coffee",
+    "imgUrl": "/../public/static/coffee-store.jpg",
+    "websiteUrl": "https://www.darkhorseespresso.com/",
+    "address": "Namjoo St W",
+    "neighbourhood": "Gaz"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Coffee",
+    "imgUrl": "/../public/static/coffee-store.jpg",
+    "websiteUrl": "https://www.darkhorseespresso.com/",
+    "address": "Namjoo St W",
+    "neighbourhood": "Gaz"
+  }
+]
